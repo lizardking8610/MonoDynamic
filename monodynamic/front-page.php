@@ -1,6 +1,6 @@
 <?php
 /**
- * Monochrome Pro.
+ * MonoDynamic.
  *
  * This file adds functions to the Monochrome Pro Theme.
  *
