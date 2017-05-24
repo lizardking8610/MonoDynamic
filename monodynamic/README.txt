@@ -1,4 +1,4 @@
-MONODYNAMIC
+MonoDynamic
 
 WIDGET AREAS
 Primary Sidebar - This is the primary sidebar if you are using the Content/Sidebar or Sidebar/Content Site Layout option.
