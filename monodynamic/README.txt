@@ -12,6 +12,7 @@ After Entry - This is the after entry section.
 ICON FONTS
 The icons used in the Monochrome Pro theme are free of copyright and courtesy of http://ionicons.com/.
 
+Theme customization and original concept based on studiopress MonoChrome theme. 
 
 
 
